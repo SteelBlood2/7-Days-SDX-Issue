@@ -10,143 +10,129 @@ Direct3D:
     VRAM:     3981 MB
     Driver:   26.21.14.3086
 Begin MonoManager ReloadAssembly
-- Completed reload, in  0.077 seconds
+- Completed reload, in  0.061 seconds
 <RI> Initializing input.
 
 <RI> Input initialized.
 
 <RI> Initialized touch support.
 
-UnloadTime: 0.307015 ms
-2019-11-16T22:30:05 0.011 INF [Steamworks.NET] SteamAPI_Init() ok
-2019-11-16T22:30:05 0.044 INF Texture quality is set to 1
-2019-11-16T22:30:05 0.045 INF Precaching...
-2019-11-16T22:30:05 0.049 INF Precaching file: 7DaysToDie_Data/resources.assets
-2019-11-16T22:30:05 0.108 INF [EAC] Not loading, not started from launcher
-Could not open file E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/resources.assets for read
- 
-(Filename: C:\buildslave\unity\build\Runtime/File/OpenFileCache.cpp Line: 56)
-
-Unknown error occurred while loading 'E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/resources.assets'.
- 
-(Filename: C:\buildslave\unity\build\Runtime/Serialize/SerializedFile.cpp Line: 221)
-
-2019-11-16T22:30:09 3.881 INF Precaching file: 7DaysToDie_Data/sharedassets1.assets
-2019-11-16T22:30:09 3.914 INF Precaching file: Data/Bundles/blocktextureatlases
-2019-11-16T22:30:14 9.052 INF Precaching file: Data/Bundles/terraintextures
-2019-11-16T22:30:19 13.811 INF Precaching done
-2019-11-16T22:30:19 13.812 INF Loading main scene
+UnloadTime: 0.417206 ms
+2019-11-23T08:50:42 0.011 INF [Steamworks.NET] SteamAPI_Init() ok
+2019-11-23T08:50:42 0.044 INF Texture quality is set to 0
+2019-11-23T08:50:42 0.044 INF Precaching...
+2019-11-23T08:50:42 0.048 INF Precaching file: 7DaysToDie_Data/resources.assets
+2019-11-23T08:50:43 0.106 INF [EAC] Not loading, not started from launcher
+2019-11-23T08:50:43 0.167 INF Precaching file: 7DaysToDie_Data/sharedassets1.assets
+2019-11-23T08:50:43 0.324 INF Precaching file: Data/Bundles/blocktextureatlases
+2019-11-23T08:50:43 1.023 INF Precaching file: Data/Bundles/terraintextures
+2019-11-23T08:50:44 1.213 INF Precaching done
+2019-11-23T08:50:46 3.325 INF Loading main scene
 Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 2.098613 ms
-2019-11-16T22:30:19 14.070 INF Awake
-2019-11-16T22:30:19 14.134 WRN Localization: Duplicate key "xuiWater" found! Please check Localization file. Skipping entry...
+UnloadTime: 2.079011 ms
+2019-11-23T08:50:46 3.410 INF Awake
+2019-11-23T08:50:46 3.446 WRN Localization: Duplicate key "xuiWater" found! Please check Localization file. Skipping entry...
 Localization language: English
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
 
-2019-11-16T22:30:19 14.183 INF Version: Alpha 18.1 (b8) Compatibility Version: Alpha 18.1, Build: Windows 64 Bit
-2019-11-16T22:30:19 14.183 INF System information:
-2019-11-16T22:30:19 14.184 INF    OS: Windows 7  (6.1.0) 64bit
-2019-11-16T22:30:19 14.184 INF    CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz (cores: 4)
-2019-11-16T22:30:19 14.184 INF    RAM: 16342 MB
-2019-11-16T22:30:19 14.184 INF    GPU: NVIDIA GeForce GTX 1050 Ti (3981 MB)
-2019-11-16T22:30:19 14.184 INF    Graphics API: Direct3D 11.0 [level 11.0] (shader level 5.0)
-2019-11-16T22:30:19 14.184 INF Last played version: Alpha 18.1
-2019-11-16T22:30:19 14.184 INF Local UTC offset: -6 hours
-2019-11-16T22:30:19 14.187 INF Command line arguments: E:\Steam\SteamApps\common\7 Days To Die\7DaysToDie.exe
-2019-11-16T22:30:19 14.188 INF Not running in Big Picture Mode, no on-screen keyboard available
-2019-11-16T22:30:19 14.189 INF Starting PlayerInputManager...
-2019-11-16T22:30:19 14.232 INF InControl (version 1.6.17 build 9143, native module = False, XInput = True)
+2019-11-23T08:50:46 3.454 INF Version: Alpha 18.1 (b8) Compatibility Version: Alpha 18.1, Build: Windows 64 Bit
+2019-11-23T08:50:46 3.454 INF System information:
+2019-11-23T08:50:46 3.454 INF    OS: Windows 7  (6.1.0) 64bit
+2019-11-23T08:50:46 3.455 INF    CPU: Intel(R) Core(TM) i5-7600K CPU @ 3.80GHz (cores: 4)
+2019-11-23T08:50:46 3.455 INF    RAM: 16342 MB
+2019-11-23T08:50:46 3.455 INF    GPU: NVIDIA GeForce GTX 1050 Ti (3981 MB)
+2019-11-23T08:50:46 3.455 INF    Graphics API: Direct3D 11.0 [level 11.0] (shader level 5.0)
+2019-11-23T08:50:46 3.455 INF Last played version: Alpha 18.1
+2019-11-23T08:50:46 3.455 INF Local UTC offset: -6 hours
+2019-11-23T08:50:46 3.458 INF Command line arguments: E:\Steam\SteamApps\common\7 Days To Die\7DaysToDie.exe
+2019-11-23T08:50:46 3.459 INF Not running in Big Picture Mode, no on-screen keyboard available
+2019-11-23T08:50:46 3.459 INF Starting PlayerInputManager...
+2019-11-23T08:50:46 3.474 INF InControl (version 1.6.17 build 9143, native module = False, XInput = True)
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/XInputInterface32
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/XInputInterface32.dll
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/XInputInterface32
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libXInputInterface32
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libXInputInterface32.dll
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libXInputInterface32
-2019-11-16T22:30:20 14.317 INF Starting UserProfileManager...
-2019-11-16T22:30:20 14.383 INF Occlusion: Awake
-2019-11-16T22:30:20 14.391 INF ApplyAllOptions streaming True, budget 3582.9 MB
-2019-11-16T22:30:20 14.391 INF ApplyAllOptions current screen 1842 x 1036, 30hz, window 1842 x 1036, fullscreen True FullScreenWindow
-2019-11-16T22:30:20 14.392 INF Texture quality is set to 1
-2019-11-16T22:30:20 14.392 INF ApplyTextureFilter 1, AF Enable
-2019-11-16T22:30:22 16.388 INF [MODS] Start loading
-2019-11-16T22:30:22 16.390 INF [MODS] Trying to load from 0-SphereIICore
-2019-11-16T22:30:22 16.415 INF [MODS] Loaded Mod: 0-SphereIICore (18.1.1.23)
-2019-11-16T22:30:22 16.415 INF [MODS] Trying to load from SphereII NPC Dialog Windows
-2019-11-16T22:30:22 16.416 INF [MODS] Loaded Mod: SphereII NPC Dialog Windows (18.1.0.1)
-2019-11-16T22:30:22 16.416 INF [MODS] Trying to load from Xyth Bandits
-2019-11-16T22:30:22 16.416 INF [MODS] Loaded Mod: Xyth Bandits (1.6)
-2019-11-16T22:30:22 16.416 INF [MODS] Trying to load from Xyth NPCs
-2019-11-16T22:30:22 16.416 INF [MODS] Loaded Mod: Xyth NPCs (1.61)
-2019-11-16T22:30:22 16.416 INF [MODS] Trying to load from Xyth_Bandits
-2019-11-16T22:30:22 16.417 WRN [MODS] Xyth_Bandits/Mod with same name already loaded, ignoring
-2019-11-16T22:30:22 16.417 WRN [MODS] Failed loading mod from Xyth_Bandits
-2019-11-16T22:30:22 16.417 INF [MODS] Trying to load from Xyth_NPCs
-2019-11-16T22:30:22 16.417 WRN [MODS] Xyth_NPCs/Mod with same name already loaded, ignoring
-2019-11-16T22:30:22 16.417 WRN [MODS] Failed loading mod from Xyth_NPCs
-2019-11-16T22:30:22 16.417 INF [MODS] Initializing mod code
-2019-11-16T22:30:22 16.417 INF [MODS] Loading done
-2019-11-16T22:30:22 16.425 INF Pack 2500 us
-2019-11-16T22:30:22 16.426 INF Loading localizations from mod 0-SphereIICore
-2019-11-16T22:30:22 16.427 INF Loading localizations from mod SphereII NPC Dialog Windows
-2019-11-16T22:30:22 16.427 INF Loading localizations from mod Xyth Bandits
-2019-11-16T22:30:22 16.427 INF Loading localizations from mod Xyth NPCs
-2019-11-16T22:30:22 16.434 INF Loading permissions file at 'C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
-2019-11-16T22:30:22 16.452 INF Loading permissions file done.
-2019-11-16T22:30:22 16.455 INF Looking for mods dll at E:\Steam\SteamApps\common\7 Days To Die/Mods.dll
-2019-11-16T22:30:22 16.456 INF Assemblies: 9
-2019-11-16T22:30:22 16.458 INF Adding Assembly: mscorlib
-2019-11-16T22:30:22 16.458 INF Skipping missing Assembly: System.Core
-2019-11-16T22:30:22 16.458 INF Adding Assembly: Mono.Cecil
-2019-11-16T22:30:22 16.459 INF Skipping missing Assembly: System.Xml
-2019-11-16T22:30:22 16.459 INF Skipping missing Assembly: System
-2019-11-16T22:30:22 16.459 INF Skipping missing Assembly: System.Windows.Forms
-2019-11-16T22:30:22 16.459 INF Adding Assembly: LogLibrary
-2019-11-16T22:30:22 16.459 INF Adding Assembly: UnityEngine.CoreModule
-2019-11-16T22:30:22 16.459 INF Adding Assembly: Newtonsoft.Json
-2019-11-16T22:30:22 16.461 INF Start harmony loading: E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/../Mods
-2019-11-16T22:30:22 16.461 INF DLL found: E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/../Mods\0-SphereIICore/Harmony/Harmony-0-SphereIICore.dll
-2019-11-16T22:30:22 16.473 INF Found harmony interfaces: 2
+2019-11-23T08:50:46 3.556 INF Starting UserProfileManager...
+2019-11-23T08:50:46 3.625 INF Occlusion: Awake
+2019-11-23T08:50:46 3.632 INF ApplyAllOptions streaming True, budget 3582.9 MB
+2019-11-23T08:50:46 3.633 INF ApplyAllOptions current screen 1842 x 1036, 30hz, window 1842 x 1036, fullscreen True FullScreenWindow
+2019-11-23T08:50:46 3.633 INF Texture quality is set to 0
+2019-11-23T08:50:46 3.633 INF ApplyTextureFilter 1, AF Enable
+2019-11-23T08:50:46 3.815 INF [MODS] Start loading
+2019-11-23T08:50:46 3.817 INF [MODS] Trying to load from 0-SphereIICore
+2019-11-23T08:50:46 3.843 INF [MODS] Loaded Mod: 0-SphereIICore (18.1.1.51)
+2019-11-23T08:50:46 3.843 INF [MODS] Trying to load from SphereII NPC Dialog Windows
+2019-11-23T08:50:46 3.843 INF [MODS] Loaded Mod: SphereII NPC Dialog Windows (18.1.0.23)
+2019-11-23T08:50:46 3.843 INF [MODS] Trying to load from Xyth Bandits
+2019-11-23T08:50:46 3.844 INF [MODS] Loaded Mod: Xyth Bandits (1.7)
+2019-11-23T08:50:46 3.844 INF [MODS] Trying to load from Xyth NPCs
+2019-11-23T08:50:46 3.844 INF [MODS] Loaded Mod: Xyth NPCs (1.7)
+2019-11-23T08:50:46 3.844 INF [MODS] Initializing mod code
+2019-11-23T08:50:46 3.844 INF [MODS] Loading done
+2019-11-23T08:50:46 3.852 INF Pack 2422 us
+2019-11-23T08:50:46 3.854 INF Loading localizations from mod 0-SphereIICore
+2019-11-23T08:50:46 3.854 INF Loading localizations from mod SphereII NPC Dialog Windows
+2019-11-23T08:50:46 3.854 INF Loading localizations from mod Xyth Bandits
+2019-11-23T08:50:46 3.854 INF Loading localizations from mod Xyth NPCs
+2019-11-23T08:50:46 3.862 INF Loading permissions file at 'C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2019-11-23T08:50:46 3.881 INF Loading permissions file done.
+2019-11-23T08:50:46 3.884 INF Looking for mods dll at E:\Steam\SteamApps\common\7 Days To Die/Mods.dll
+2019-11-23T08:50:46 3.885 INF Assemblies: 9
+2019-11-23T08:50:46 3.886 INF Adding Assembly: mscorlib
+2019-11-23T08:50:46 3.886 INF Skipping missing Assembly: System.Core
+2019-11-23T08:50:46 3.887 INF Adding Assembly: Mono.Cecil
+2019-11-23T08:50:46 3.887 INF Skipping missing Assembly: System.Xml
+2019-11-23T08:50:46 3.887 INF Skipping missing Assembly: System
+2019-11-23T08:50:46 3.887 INF Skipping missing Assembly: System.Windows.Forms
+2019-11-23T08:50:46 3.887 INF Adding Assembly: LogLibrary
+2019-11-23T08:50:46 3.887 INF Adding Assembly: UnityEngine.CoreModule
+2019-11-23T08:50:46 3.888 INF Adding Assembly: Newtonsoft.Json
+2019-11-23T08:50:46 3.889 INF Start harmony loading: E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/../Mods
+2019-11-23T08:50:46 3.889 INF DLL found: E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/../Mods\0-SphereIICore/Harmony/Harmony-0-SphereIICore.dll
+2019-11-23T08:50:46 3.900 INF Found harmony interfaces: 2
  Loading Patch: SphereIICore_Init
  Loading Patch: SphereII_RemoveTraderProtection+SphereII_RemoveTraderProtection_Start
-2019-11-16T22:30:22 16.995 INF Awake done in 2924 ms
+2019-11-23T08:50:47 4.426 INF Awake done in 1015 ms
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libc
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libc.dll
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libc
 
-Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4029.
-Total: 6.487015 ms (FindLiveObjects: 0.268132 ms CreateObjectMapping: 0.094238 ms MarkObjects: 6.032298 ms  DeleteObjects: 0.091538 ms)
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 4030.
+Total: 6.811401 ms (FindLiveObjects: 0.270307 ms CreateObjectMapping: 0.096673 ms MarkObjects: 6.365571 ms  DeleteObjects: 0.078581 ms)
 
-2019-11-16T22:30:22 17.185 INF Reloading serveradmin.xml
-2019-11-16T22:30:22 17.185 INF Loading permissions file at 'C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
-2019-11-16T22:30:22 17.185 INF Loading permissions file done.
-2019-11-16T22:30:23 17.302 INF User joined: SteelBlood
-2019-11-16T22:30:32 26.457 INF UMA Overlay loading took 7637 ms
-2019-11-16T22:30:32 26.459 INF UMA Slot loading took 1 ms
-2019-11-16T22:30:35 29.550 INF LoadTextureArraysForQuality quality -1 to 1, reload False
-2019-11-16T22:30:36 30.309 INF WorldStaticData.Init() needed 3.664s
-2019-11-16T22:30:36 31.023 INF [Steamworks.NET] Login ok.
-2019-11-16T22:30:37 31.359 INF AchievementManager: Received stats and achievements from Steam
-2019-11-16T22:30:44 38.354 INF NET: Starting server protocols
-2019-11-16T22:30:44 38.373 INF NET: LiteNetLib server started
-2019-11-16T22:30:44 38.374 INF [Steamworks.NET] NET: Server started
-2019-11-16T22:30:44 38.374 INF Started thread SteamNetworkingServer
-2019-11-16T22:30:44 38.375 INF StartGame
-2019-11-16T22:30:44 38.395 INF Persistent GamePrefs saved
+2019-11-23T08:50:47 4.504 INF User joined: SteelBlood
+2019-11-23T08:50:47 4.611 INF Reloading serveradmin.xml
+2019-11-23T08:50:47 4.611 INF Loading permissions file at 'C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/serveradmin.xml'
+2019-11-23T08:50:47 4.611 INF Loading permissions file done.
+2019-11-23T08:50:47 4.929 INF UMA Overlay loading took 249 ms
+2019-11-23T08:50:47 4.930 INF UMA Slot loading took 1 ms
+2019-11-23T08:50:48 5.791 INF LoadTextureArraysForQuality quality -1 to 0, reload False
+2019-11-23T08:50:49 6.946 INF WorldStaticData.Init() needed 1.832s
+2019-11-23T08:50:50 7.650 INF [Steamworks.NET] Login ok.
+2019-11-23T08:50:50 7.861 INF AchievementManager: Received stats and achievements from Steam
+2019-11-23T08:50:55 12.871 INF NET: Starting server protocols
+2019-11-23T08:50:55 12.889 INF NET: LiteNetLib server started
+2019-11-23T08:50:55 12.890 INF [Steamworks.NET] NET: Server started
+2019-11-23T08:50:55 12.891 INF Started thread SteamNetworkingServer
+2019-11-23T08:50:55 12.891 INF StartGame
+2019-11-23T08:50:55 12.918 INF Persistent GamePrefs saved
 GamePref.AdminFileName = serveradmin.xml
 GamePref.AirDropFrequency = 72
-GamePref.AirDropMarker = False
+GamePref.AirDropMarker = True
 GamePref.AutopilotMode = 0
-GamePref.BedrollDeadZoneSize = 15
-GamePref.BedrollExpiryTime = 45
-GamePref.BlockDamageAI = 100
+GamePref.BedrollDeadZoneSize = 30
+GamePref.BedrollExpiryTime = 60
+GamePref.BlockDamageAI = 50
 GamePref.BlockDamageAIBM = 100
 GamePref.BlockDamagePlayer = 100
-GamePref.BloodMoonEnemyCount = 8
-GamePref.BloodMoonFrequency = 7
+GamePref.BloodMoonEnemyCount = 64
+GamePref.BloodMoonFrequency = 1
 GamePref.BloodMoonRange = 0
 GamePref.BloodMoonWarning = 8
-GamePref.BuildCreate = False
+GamePref.BuildCreate = True
 GamePref.ConnectToServerIP = 127.0.0.1
 GamePref.ConnectToServerPort = 26900
 GamePref.ControlPanelEnabled = False
@@ -157,11 +143,11 @@ GamePref.CreateLevelName = My Level
 GamePref.CreativeMenuEnabled = False
 GamePref.DayCount = 3
 GamePref.DayLightLength = 18
-GamePref.DayNightLength = 60
+GamePref.DayNightLength = 90
 GamePref.DebugMenuEnabled = False
 GamePref.DebugMenuShowTasks = False
 GamePref.DebugStopEnemiesMoving = False
-GamePref.DropOnDeath = 1
+GamePref.DropOnDeath = 0
 GamePref.DropOnQuit = 0
 GamePref.DynamicSpawner = 
 GamePref.EACEnabled = False
@@ -169,27 +155,27 @@ GamePref.EnemyDifficulty = 0
 GamePref.EnemySpawnMode = True
 GamePref.FavoriteServersList = 
 GamePref.FragLimit = 20
-GamePref.GameDifficulty = 1
+GamePref.GameDifficulty = 3
 GamePref.GameGuidClient = 
 GamePref.GameMode = GameModeSurvival
-GamePref.GameName = NPC3
+GamePref.GameName = ai
 GamePref.GameNameClient = My Game
 GamePref.GameVersion = Alpha 18.1
-GamePref.GameWorld = Navezgane
+GamePref.GameWorld = Aniland
 GamePref.HideCommandExecutionLog = 0
 GamePref.JoiningOptions = True
 GamePref.LandClaimCount = 1
-GamePref.LandClaimDeadZone = 30
-GamePref.LandClaimDecayMode = 0
-GamePref.LandClaimExpiryTime = 7
-GamePref.LandClaimOfflineDurabilityModifier = 4
+GamePref.LandClaimDeadZone = 0
+GamePref.LandClaimDecayMode = 2
+GamePref.LandClaimExpiryTime = 30
+GamePref.LandClaimOfflineDurabilityModifier = 256
 GamePref.LandClaimOnlineDurabilityModifier = 4
-GamePref.LandClaimSize = 41
+GamePref.LandClaimSize = 71
 GamePref.LastGameResetRevision = 13
 GamePref.LastLoadedPrefab = 
 GamePref.LastLoadedPrefabSize = 
-GamePref.LootAbundance = 100
-GamePref.LootRespawnDays = 30
+GamePref.LootAbundance = 150
+GamePref.LootRespawnDays = -1
 GamePref.LootTimer = 
 GamePref.MatchLength = 10
 GamePref.MaxSpawnedAnimals = 50
@@ -206,25 +192,25 @@ GamePref.OptionsDeferredLighting = True
 GamePref.OptionsDisableChunkLODs = False
 GamePref.OptionsDynamicMusicDailyTime = 0.3
 GamePref.OptionsDynamicMusicEnabled = False
-GamePref.OptionsFieldOfView = 67
+GamePref.OptionsFieldOfView = 78
 GamePref.OptionsFieldOfViewNew = 65
 GamePref.OptionsForegroundGlobalOpacity = 1
 GamePref.OptionsGamma = 0.9224138
 GamePref.OptionsGfxBloom = True
 GamePref.OptionsGfxDOF = False
-GamePref.OptionsGfxMotionBlur = 1
+GamePref.OptionsGfxMotionBlur = 0
 GamePref.OptionsGfxOcclusion = True
 GamePref.OptionsGfxSSAO = True
-GamePref.OptionsGfxSSReflections = 1
+GamePref.OptionsGfxSSReflections = 2
 GamePref.OptionsGfxSunShafts = True
-GamePref.OptionsGraphicsQuality = 2
+GamePref.OptionsGraphicsQuality = 5
 GamePref.OptionsGrassDistance = 1
 GamePref.OptionsHudOpacity = 1
 GamePref.OptionsHudSize = 2
 GamePref.OptionsInterfaceSensitivity = 0.75
 GamePref.OptionsInvertMouse = False
 GamePref.OptionsJournalPopup = False
-GamePref.OptionsLODDistance = 0.5
+GamePref.OptionsLODDistance = 0.75
 GamePref.OptionsMenuMusicVolumeLevel = 0.7
 GamePref.OptionsMicVolumeLevel = 0.75
 GamePref.OptionsMouseSensitivity = 0.5
@@ -239,7 +225,7 @@ GamePref.OptionsReflectedShadows = False
 GamePref.OptionsReflectionBounces = 1
 GamePref.OptionsReflectionCullList = Default
 GamePref.OptionsReflectionFarClip = 30
-GamePref.OptionsReflectionQuality = 1
+GamePref.OptionsReflectionQuality = 0
 GamePref.OptionsReflectionRefreshMode = ViaScripting
 GamePref.OptionsReflectionRefreshRate = 0
 GamePref.OptionsReflectionShadowDistance = 0
@@ -254,7 +240,7 @@ GamePref.OptionsStreamingMipmapsBudget = 4096
 GamePref.OptionsStreamingMipmapsEnabled = True
 GamePref.OptionsTempCelsius = False
 GamePref.OptionsTextureFilter = 1
-GamePref.OptionsTextureQuality = 1
+GamePref.OptionsTextureQuality = 0
 GamePref.OptionsTreeDistance = 4
 GamePref.OptionsTreeQuality = 2
 GamePref.OptionsUMATextureQuality = 1
@@ -262,14 +248,14 @@ GamePref.OptionsViewDistance = 5
 GamePref.OptionsVoiceChatEnabled = True
 GamePref.OptionsVoiceVolumeLevel = 0.75
 GamePref.OptionsVsync = 0
-GamePref.OptionsWaterParticleLimiter = 0.5
-GamePref.OptionsWaterQuality = 1
+GamePref.OptionsWaterParticleLimiter = 0.75
+GamePref.OptionsWaterQuality = 0
 GamePref.OptionsZoomMouseSensitivity = 0.5
-GamePref.PartySharedKillRange = 100
+GamePref.PartySharedKillRange = 10000
 GamePref.PersistentPlayerProfiles = False
 GamePref.PlayerAutologin = False
 GamePref.PlayerId = 76561198062375713
-GamePref.PlayerKillingMode = 2
+GamePref.PlayerKillingMode = 0
 GamePref.PlayerName = SteelBlood
 GamePref.PlayerSafeZoneHours = 7
 GamePref.PlayerSafeZoneLevel = 5
@@ -292,7 +278,7 @@ GamePref.ServerName = Default Server
 GamePref.ServerPort = 26900
 GamePref.ServerReservedSlots = 0
 GamePref.ServerReservedSlotsPermission = 100
-GamePref.ServerVisibility = 2
+GamePref.ServerVisibility = 1
 GamePref.ServerWebsiteURL = 
 GamePref.ShowFriendPlayerOnMap = True
 GamePref.TelnetEnabled = False
@@ -312,9 +298,9 @@ GamePref.WorldGenSeed =
 GamePref.WorldGenSize = 8192
 GamePref.XPMultiplier = 100
 GamePref.ZombieBMMove = 3
-GamePref.ZombieFeralMove = 3
+GamePref.ZombieFeralMove = 2
 GamePref.ZombieMove = 0
-GamePref.ZombieMoveNight = 3
+GamePref.ZombieMoveNight = 1
 GamePref.ZombiePlayers = True
 GameStat.AirDropFrequency = 0
 GameStat.AirDropMarker = False
@@ -379,36 +365,33 @@ GameStat.TimeLimitThisRound = 0
 GameStat.TimeOfDayIncPerSec = 20
 GameStat.XPMultiplier = 100
 GameStat.ZombieHordeMeter = False
-2019-11-16T22:30:44 38.408 INF StartAsServer
+2019-11-23T08:50:55 12.931 INF StartAsServer
 WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - All passes removed
 ERROR: Shader Shader is not supported on this GPU (none of subshaders/fallbacks are suitable)WARNING: Shader Unsupported: 'Hidden/Nature/Terrain/Utilities' - Setting to default shader.
-2019-11-16T22:30:44 38.659 INF Set Microsplat diffuse: MicroSplatConfig_diff_tarray_1 (UnityEngine.Texture2DArray)
-2019-11-16T22:30:44 38.659 INF Set Microsplat normals: MicroSplatConfig_normal_tarray_1 (UnityEngine.Texture2DArray)
-2019-11-16T22:30:44 38.659 INF Set Microsplat smooth:  MicroSplatConfig_smoothAO_tarray_1 (UnityEngine.Texture2DArray)
-2019-11-16T22:31:03 58.041 INF Block IDs with mapping
-2019-11-16T22:31:03 58.041 INF BlockIDs from Mapping
-2019-11-16T22:31:07 61.847 INF Item IDs with mapping
-2019-11-16T22:31:07 61.847 INF ItemIDs from Mapping
-2019-11-16T22:31:21 75.450 INF createWorld: Navezgane, NPC3, GameModeSurvival
-2019-11-16T22:31:21 75.451 INF Occlusion: Enabled
-2019-11-16T22:31:21 75.486 INF Started thread ChunkRegeneration
-2019-11-16T22:31:21 75.487 INF Started thread ChunkCalc
-2019-11-16T22:31:21 75.627 INF World.Load: Navezgane
-2019-11-16T22:31:21 75.627 INF Loading base world file header...
-2019-11-16T22:31:21 75.637 INF Loaded world file from different version: 'Alpha 18 (b35)'
-2019-11-16T22:31:21 75.642 INF BloodMoon SetDay: day 7, last day 0, freq 7, range 0
-2019-11-16T22:31:21 75.649 INF BloodMoon SetDay: day 7, last day 0, freq 7, range 0
-2019-11-16T22:31:21 75.649 INF BloodMoon SetDay: day 7, last day 0, freq 7, range 0
-2019-11-16T22:31:23 77.697 INF ShapeControllers: 64
-2019-11-16T22:31:38 92.282 INF Started thread GenerateChunks
-2019-11-16T22:31:38 92.773 INF Loading dtm raw file took 489ms
-2019-11-16T22:31:38 92.888 INF Biomes image size w= 3072, h = 3072
-2019-11-16T22:31:38 92.980 INF Loading and creating biomes took 207ms
-2019-11-16T22:31:42 97.129 INF Loading and creating shader control textures took 4148ms
-2019-11-16T22:31:43 97.509 INF Loading and parsing of generator took 380ms
-2019-11-16T22:31:43 97.513 INF Started thread SaveChunks C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/Navezgane/NPC3\Region
-2019-11-16T22:31:44 98.493 INF [DECO] read 0/0
-2019-11-16T22:31:44 99.236 INF AstarManager Init
+2019-11-23T08:50:56 13.145 INF Set Microsplat diffuse: MicroSplatConfig_diff_tarray (UnityEngine.Texture2DArray)
+2019-11-23T08:50:56 13.145 INF Set Microsplat normals: MicroSplatConfig_normal_tarray (UnityEngine.Texture2DArray)
+2019-11-23T08:50:56 13.145 INF Set Microsplat smooth:  MicroSplatConfig_smoothAO_tarray (UnityEngine.Texture2DArray)
+2019-11-23T08:50:58 15.963 INF Block IDs with mapping
+2019-11-23T08:50:58 15.963 INF BlockIDs from Mapping
+2019-11-23T08:51:00 17.454 INF Item IDs with mapping
+2019-11-23T08:51:00 17.454 INF ItemIDs from Mapping
+2019-11-23T08:51:09 26.667 INF createWorld: Aniland, ai, GameModeSurvival
+2019-11-23T08:51:09 26.668 INF Occlusion: Enabled
+2019-11-23T08:51:09 26.703 INF Started thread ChunkRegeneration
+2019-11-23T08:51:09 26.703 INF Started thread ChunkCalc
+2019-11-23T08:51:09 26.860 INF World.Load: Aniland
+2019-11-23T08:51:09 26.868 INF BloodMoon SetDay: day 2, last day 0, freq 1, range 0
+2019-11-23T08:51:09 26.869 INF BloodMoon SetDay: day 2, last day 1, freq 1, range 0
+2019-11-23T08:51:11 29.076 INF ShapeControllers: 64
+2019-11-23T08:51:23 41.049 INF Started thread GenerateChunks
+2019-11-23T08:51:24 41.347 INF Loading dtm raw file took 296ms
+2019-11-23T08:51:24 41.749 INF Biomes image size w= 8192, h = 8192
+2019-11-23T08:51:25 42.499 INF Loading and creating biomes took 1152ms
+2019-11-23T08:51:28 45.796 INF Loading and creating shader control textures took 3297ms
+2019-11-23T08:51:30 47.604 INF Loading and parsing of generator took 1807ms
+2019-11-23T08:51:30 47.616 INF Started thread SaveChunks C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/Aniland/ai\Region
+2019-11-23T08:51:32 49.246 INF [DECO] read 205/1642
+2019-11-23T08:51:33 50.787 INF AstarManager Init
 ReflectionTypeLoadException: Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
   at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
   at System.Reflection.Assembly.GetTypes () [0x00000] in <1f0c1ef1ad524c38bbc5536809c46b48>:0 
@@ -429,13 +412,14 @@ UnityEngine.SetupCoroutine:InvokeMoveNext(IEnumerator, IntPtr)
  
 (Filename: <1f0c1ef1ad524c38bbc5536809c46b48> Line: 0)
 
-2019-11-16T22:31:45 99.770 INF Weather Packages Created FROM BIOMES
-2019-11-16T22:31:45 99.770 INF createWorld() done
-2019-11-16T22:31:45 99.771 INF Calculating world hashes
-2019-11-16T22:31:45 99.772 INF Loading players.xml
-2019-11-16T22:31:45 100.039 INF Created player with id=171
-2019-11-16T22:31:45 100.062 WRN InitBreadCrumbs SteelBlood (-323.5, 61.0, -1749.5)
-2019-11-16T22:31:45 100.065 INF Loaded player
+2019-11-23T08:51:33 50.975 INF Weather Packages Created FROM BIOMES
+2019-11-23T08:51:33 50.976 INF createWorld() done
+2019-11-23T08:51:33 50.977 INF Calculating world hashes
+2019-11-23T08:51:33 50.978 INF Loading players.xml
+2019-11-23T08:51:34 51.110 INF Created player with id=23912
+2019-11-23T08:51:34 51.152 WRN InitBreadCrumbs SteelBlood (-1731.2, 36.1, -2493.6)
+2019-11-23T08:51:34 51.156 INF Loaded player
+2019-11-23T08:51:34 51.492 INF VehicleManager C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/Aniland/ai/vehicles.dat, loaded 0
 NullReferenceException: Object reference not set to an instance of an object
   at Pathfinding.AstarData.AddGraph (System.Type type) [0x00030] in <a973c9e76b9448d290cc8c9c84773925>:0 
   at AstarManager.AddGraph (System.Int32 size) [0x00000] in <9d3ce62bccb44fc0b638ccdfcdc35c56>:0 
@@ -453,14 +437,20 @@ Detail rendering shaders not found for the active render pipeline, falling back 
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
 
-2019-11-16T22:31:46 100.604 INF Origin Reposition (0.0, 0.0, 0.0) to (-320.0, 48.0, -1744.0)
+2019-11-23T08:51:34 51.659 INF Setting for 'DayNightLength' does not match the default (server will go to the modded category): current = 90, default = 60
+2019-11-23T08:51:34 51.659 INF Setting for 'DropOnDeath' does not match the default (server will go to the modded category): current = 0, default = 1
+2019-11-23T08:51:34 51.659 INF Setting for 'BloodMoonEnemyCount' does not match the default (server will go to the modded category): current = 64, default = 8
+2019-11-23T08:51:34 51.659 INF Setting for 'BlockDamageAI' does not match the default (server will go to the modded category): current = 50, default = 100
+2019-11-23T08:51:34 51.659 INF Setting for 'LootRespawnDays' does not match the default (server will go to the modded category): current = -1, default = 30
+2019-11-23T08:51:34 51.659 INF Setting for 'LootAbundance' does not match the default (server will go to the modded category): current = 150, default = 100
+2019-11-23T08:51:34 51.659 INF Setting for 'BuildCreate' does not match the default (server will go to the modded category): current = True, default = False
+2019-11-23T08:51:34 51.660 INF Origin Reposition (0.0, 0.0, 0.0) to (-1728.0, 32.0, -2480.0)
 Detail rendering shaders not found for the active render pipeline, falling back to default shader.
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
 
-2019-11-16T22:31:46 100.644 INF [DECO] written 0/0
-2019-11-16T22:31:46 100.682 INF OpenSpawnWindow
-2019-11-16T22:31:46 100.735 INF StartGame done
+2019-11-23T08:51:34 51.762 INF OpenSpawnWindow
+2019-11-23T08:51:34 51.815 INF StartGame done
 Detail rendering shaders not found for the active render pipeline, falling back to default shader.
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
@@ -472,14 +462,6 @@ Detail rendering shaders not found for the active render pipeline, falling back 
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libc
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libc.dll
 Fallback handler could not load library E:/Steam/SteamApps/common/7 Days To Die/7DaysToDie_Data/Mono/libc
-Detail rendering shaders not found for the active render pipeline, falling back to default shader.
- 
-(Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
-
-Detail rendering shaders not found for the active render pipeline, falling back to default shader.
- 
-(Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
-
 Detail rendering shaders not found for the active render pipeline, falling back to default shader.
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
@@ -504,6 +486,7 @@ Detail rendering shaders not found for the active render pipeline, falling back 
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
 
+2019-11-23T08:51:35 52.786 INF [Steamworks.NET] GameServer.Init successful
 Detail rendering shaders not found for the active render pipeline, falling back to default shader.
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
@@ -524,6 +507,9 @@ Detail rendering shaders not found for the active render pipeline, falling back 
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
 
+2019-11-23T08:51:35 53.009 INF Respawn almost done
+2019-11-23T08:51:35 53.014 INF PlayerSpawnedInWorld (reason: LoadedGame, position: -1731, 36, -2493): localplayer
+2019-11-23T08:51:35 53.017 INF DMS Entered Game!
 Detail rendering shaders not found for the active render pipeline, falling back to default shader.
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
@@ -532,35 +518,22 @@ Detail rendering shaders not found for the active render pipeline, falling back 
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
 
-2019-11-16T22:31:47 101.697 INF [Steamworks.NET] GameServer.Init successful
-2019-11-16T22:31:47 101.704 INF [Steamworks.NET] Making server public
 Detail rendering shaders not found for the active render pipeline, falling back to default shader.
  
 (Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
 
-2019-11-16T22:31:48 102.448 INF [Steamworks.NET] GameServer.LogOn successful, SteamID=90130562285232139, public IP=64.251.148.96
-2019-11-16T22:31:48 102.457 INF [Steamworks.NET] Trying to create Lobby (visibility: k_ELobbyTypePublic)
-2019-11-16T22:31:48 102.477 INF Respawn almost done
-2019-11-16T22:31:48 102.484 INF PlayerSpawnedInWorld (reason: NewGame, position: -323, 61, -1749): localplayer
-2019-11-16T22:31:48 103.067 INF DMS Entered Game!
-2019-11-16T22:31:48 103.151 INF [Steamworks.NET] Lobby creation succeeded, LobbyID=109775240991313903, server SteamID=90130562285232139, server public IP=64.251.148.96, server port=26900
-2019-11-16T22:31:48 103.153 INF [Steamworks.NET] Lobby entered: 109775240991313903
-2019-11-16T22:31:52 106.452 INF MinEventLogMessage: XP gained during the last level:
-2019-11-16T22:31:52 106.452 INF CVarLogValue: $xpFromLootThisLevel == 0
-2019-11-16T22:31:52 106.452 INF CVarLogValue: $xpFromHarvestingThisLevel == 0
-2019-11-16T22:31:52 106.452 INF CVarLogValue: $xpFromKillThisLevel == 0
-2019-11-16T22:31:54 108.457 INF Calculating hashes took 8685 ms (world size 683 MiB)
-2019-11-16T22:32:16 130.908 INF Time: 1.52m FPS: 30.96 Heap: 1373.6MB Max: 1373.6MB Chunks: 169 CGO: 64 Ply: 1 Zom: 0 Ent: 1 (3) Items: 2 CO: 1 RSS: 3489.5MB
-2019-11-16T22:32:46 160.936 INF Time: 2.02m FPS: 31.05 Heap: 1330.9MB Max: 1373.6MB Chunks: 169 CGO: 64 Ply: 1 Zom: 0 Ent: 1 (1) Items: 0 CO: 1 RSS: 3496.6MB
-2019-11-16T22:32:46 160.968 INF [DECO] written 1/0
-2019-11-16T22:33:16 190.963 INF Time: 2.52m FPS: 31.08 Heap: 1334.4MB Max: 1373.6MB Chunks: 169 CGO: 64 Ply: 1 Zom: 0 Ent: 1 (1) Items: 0 CO: 1 RSS: 3505.1MB
-2019-11-16T22:33:31 205.674 INF Executing command 'giveselfxp 1000000'
-2019-11-16T22:33:31 205.675 INF SteelBlood made level 36 (was 1), exp for next level 56577
-2019-11-16T22:33:32 206.723 INF MinEventLogMessage: XP gained during the last level:
-2019-11-16T22:33:32 206.723 INF CVarLogValue: $xpFromLootThisLevel == 0
-2019-11-16T22:33:32 206.723 INF CVarLogValue: $xpFromHarvestingThisLevel == 0
-2019-11-16T22:33:32 206.723 INF CVarLogValue: $xpFromKillThisLevel == 0
-2019-11-16T22:33:35 209.251 INF Executing command 'dm'
+Detail rendering shaders not found for the active render pipeline, falling back to default shader.
+ 
+(Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
+
+Detail rendering shaders not found for the active render pipeline, falling back to default shader.
+ 
+(Filename: C:\buildslave\unity\build\Modules/Terrain/Public/DetailRenderer.cpp Line: 66)
+
+2019-11-23T08:51:36 53.759 INF [Steamworks.NET] GameServer.LogOn successful, SteamID=90130700187259911, public IP=64.251.148.96
+2019-11-23T08:51:36 53.768 INF [Steamworks.NET] Trying to create Lobby (visibility: k_ELobbyTypeFriendsOnly)
+2019-11-23T08:51:36 53.996 INF [Steamworks.NET] Lobby creation succeeded, LobbyID=109775240998683886, server SteamID=90130700187259911, server public IP=64.251.148.96, server port=26900
+2019-11-23T08:51:36 53.998 INF [Steamworks.NET] Lobby entered: 109775240998683886
 There are no graphs in the scene
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
@@ -569,8 +542,7 @@ There are no graphs in the scene
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
 
-2019-11-16T22:33:46 220.898 INF VehicleManager saving 0 (0 / 0)
-2019-11-16T22:33:46 220.993 INF Time: 3.03m FPS: 30.95 Heap: 1385.0MB Max: 1385.0MB Chunks: 182 CGO: 80 Ply: 1 Zom: 1 Ent: 2 (2) Items: 0 CO: 1 RSS: 3543.2MB
+2019-11-23T08:51:39 56.928 INF Calculating hashes took 5950 ms (world size 679 MiB)
 There are no graphs in the scene
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
@@ -579,35 +551,182 @@ There are no graphs in the scene
  
 (Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
 
-2019-11-16T22:34:16 251.009 INF Time: 3.53m FPS: 30.98 Heap: 1394.2MB Max: 1394.2MB Chunks: 182 CGO: 80 Ply: 1 Zom: 1 Ent: 4 (4) Items: 0 CO: 1 RSS: 3602.5MB
-2019-11-16T22:34:17 251.387 INF Saving 78 of chunks took 59ms
-2019-11-16T22:34:18 252.372 INF Disconnect
-2019-11-16T22:34:18 252.377 INF [NET] ServerShutdown
-2019-11-16T22:34:18 252.377 INF NET: Stopping server protocols
-2019-11-16T22:34:18 252.387 INF NET: LiteNetLib server stopped
-2019-11-16T22:34:18 252.390 INF Exited thread SteamNetworkingServer
-2019-11-16T22:34:18 252.390 INF [Steamworks.NET] NET: Server stopped
-2019-11-16T22:34:18 252.392 INF SaveAndCleanupWorld
-2019-11-16T22:34:18 252.440 INF Saving 42 of chunks took 39ms
-2019-11-16T22:34:18 252.441 INF [Steamworks.NET] Stopping server
-2019-11-16T22:34:18 252.483 INF [Steamworks.NET] Exiting Lobby
-2019-11-16T22:34:18 252.498 INF AstarManager Cleanup
-2019-11-16T22:34:18 252.501 INF World.Unload
-2019-11-16T22:34:18 252.516 INF Exited thread GenerateChunks
-2019-11-16T22:34:18 252.529 INF Exited thread SaveChunks C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/Navezgane/NPC3\Region
-2019-11-16T22:34:18 252.556 INF World.Cleanup
-2019-11-16T22:34:18 252.557 INF Exited thread ChunkRegeneration
-2019-11-16T22:34:18 252.562 INF Exited thread ChunkCalc
-2019-11-16T22:34:18 252.564 INF VehicleManager saving 0 (0 / 0)
-2019-11-16T22:34:18 252.578 INF Persistent GamePrefs saved
-2019-11-16T22:34:19 253.884 INF Preparing quit
-2019-11-16T22:34:19 253.891 INF Persistent GamePrefs saved
-2019-11-16T22:34:19 253.891 INF Cleanup
-2019-11-16T22:34:19 253.923 INF AchievementManager.Cleanup
-2019-11-16T22:34:20 254.247 INF Terminating threads
-2019-11-16T22:34:20 254.247 INF OnApplicationQuit
-2019-11-16T22:34:20 254.247 INF Terminating threads
-2019-11-16T22:34:20 254.247 INF OnApplicationQuit
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+2019-11-23T08:51:45 62.801 INF Executing command 'dm'
+2019-11-23T08:51:53 70.335 INF [DECO] written 205/1642
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+2019-11-23T08:52:04 81.603 INF Time: 1.14m FPS: 32.49 Heap: 4435.0MB Max: 4435.0MB Chunks: 182 CGO: 105 Ply: 1 Zom: 24 Ent: 29 (33) Items: 5 CO: 1 RSS: 7272.7MB
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+There are no graphs in the scene
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 48)
+
+2019-11-23T08:52:21 98.545 INF Saving 61 of chunks took 40ms
+2019-11-23T08:52:21 98.545 INF [DECO] written 206/1642
+2019-11-23T08:52:22 99.603 INF Disconnect
+2019-11-23T08:52:22 99.609 INF [NET] ServerShutdown
+2019-11-23T08:52:22 99.609 INF NET: Stopping server protocols
+2019-11-23T08:52:22 99.619 INF NET: LiteNetLib server stopped
+2019-11-23T08:52:22 99.623 INF Exited thread SteamNetworkingServer
+2019-11-23T08:52:22 99.623 INF [Steamworks.NET] NET: Server stopped
+2019-11-23T08:52:22 99.625 INF SaveAndCleanupWorld
+2019-11-23T08:52:22 99.677 INF Saving 41 of chunks took 40ms
+2019-11-23T08:52:22 99.679 INF [Steamworks.NET] Stopping server
+2019-11-23T08:52:22 99.726 INF [Steamworks.NET] Exiting Lobby
+2019-11-23T08:52:22 99.739 INF AstarManager Cleanup
+2019-11-23T08:52:22 99.743 INF World.Unload
+2019-11-23T08:52:22 99.758 INF Exited thread GenerateChunks
+2019-11-23T08:52:22 99.769 INF Exited thread SaveChunks C:\Users\Kyle\AppData\Roaming/7DaysToDie/Saves/Aniland/ai\Region
+2019-11-23T08:52:22 99.802 INF World.Cleanup
+2019-11-23T08:52:22 99.803 INF Exited thread ChunkRegeneration
+2019-11-23T08:52:22 99.808 INF Exited thread ChunkCalc
+2019-11-23T08:52:22 99.810 INF VehicleManager saving 0 (0 / 0)
+2019-11-23T08:52:22 99.826 INF Persistent GamePrefs saved
+2019-11-23T08:52:25 102.870 INF Preparing quit
+2019-11-23T08:52:25 102.876 INF Persistent GamePrefs saved
+2019-11-23T08:52:25 102.877 INF Cleanup
+2019-11-23T08:52:25 102.918 INF AchievementManager.Cleanup
+2019-11-23T08:52:26 103.232 INF Terminating threads
+2019-11-23T08:52:26 103.232 INF OnApplicationQuit
+2019-11-23T08:52:26 103.234 INF Terminating threads
+2019-11-23T08:52:26 103.234 INF OnApplicationQuit
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: 940 -> priority: 1 
-  Thread -> id: 2538 -> priority: 1 
+  Thread -> id: 2100 -> priority: 1 
+  Thread -> id: 1e38 -> priority: 1 
